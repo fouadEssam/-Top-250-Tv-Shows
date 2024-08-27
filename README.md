@@ -20,7 +20,7 @@ I used Power BI to analyze and visualize the data.I imported the data with Power
 ![image](https://github.com/user-attachments/assets/3d23d6fe-14f2-4e84-9b72-831919a0d72d)
 
 Count of Tv Shows: 250 <br>
-Maximum Rating: 8.5/10 <br>
+Maximum Rating: 9.5/10 <br>
 Minimum Rating: 8.40/10 <br>
 Total Voters: 32M, divided into young, old, and adult categories with different percentages.<br>
 ![image](https://github.com/user-attachments/assets/f4b5c362-2e60-45d8-b7e9-7db5807a99f7)
