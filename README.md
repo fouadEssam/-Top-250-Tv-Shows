@@ -8,3 +8,20 @@ I used Power BI to analyze and visualize the data.I imported the data with Power
 ![image](https://github.com/user-attachments/assets/dda10260-3726-4de0-a200-271e21f94e0b)
 
 # 📊 Dashboard
+-This is page 1, which contains an overview of all 250 series.
+
+![image](https://github.com/user-attachments/assets/d025e892-91df-40c5-a36f-fca4d7ba53e0)
+
+- By pressing on ‘Details,’ we move to page 2, which contains specific information for each series, such as description, rating, type, release date, and the highest-rated episode related to the selected series.If you want to return to page 1, press the arrow at the top left of the page
+
+  ![image](https://github.com/user-attachments/assets/90510ba2-a680-40f7-9eca-8225e1f9a29f)
+  
+# 🧮 Some insights
+![image](https://github.com/user-attachments/assets/3d23d6fe-14f2-4e84-9b72-831919a0d72d)
+
+Count of Tv Shows: 250 <br>
+Maximum Rating: 8.5/10 <br>
+Maximum Rating: 8.40/10 <br>
+Total Voters: 32M, divided into young, old, and adult categories with different percentages.<br>
+![image](https://github.com/user-attachments/assets/f4b5c362-2e60-45d8-b7e9-7db5807a99f7)
+
