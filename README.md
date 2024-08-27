@@ -25,3 +25,24 @@ Maximum Rating: 8.40/10 <br>
 Total Voters: 32M, divided into young, old, and adult categories with different percentages.<br>
 ![image](https://github.com/user-attachments/assets/f4b5c362-2e60-45d8-b7e9-7db5807a99f7)
 
+-We have two main series categories: mini-series and large series, which are simply called TV series. The image shows two box plots comparing TV mini-series and TV series.Here are the key differences:
+-TV series have higher values with less variability, while mini-series have lower values with greater variability. TV series also have a higher average and median rating, indicating that overall, large series are rated higher than mini-series.
+
+![image](https://github.com/user-attachments/assets/0571eeec-e51d-46bf-9f9c-3e4c774365aa)
+
+-These insights can help understand the evolution of TV Series VS Mini-Series production and episode count over the years
+![image](https://github.com/user-attachments/assets/2553b55e-ced7-4ad4-ba5c-4b75a9210999)
+
+-These insights help us understand the landscape of TV show genres, their popularity, and how well they are received by audiences. Genres like Animation stand out for their high ratings, while genres like Adventure have the lowest ratings. Meanwhile, genres like Drama and Comedy are more balanced in terms of both count and ratings.
+
+![image](https://github.com/user-attachments/assets/3f3d47aa-d37f-490b-9c2d-2429f0f5e042)
+
+-This scatter plot helps visualize the correlation between the popularity of movies (measured by vote counts) and their quality (measured by IMDB ratings). 
+
+![image](https://github.com/user-attachments/assets/8fb43898-3d11-4658-95c0-b0a3fa5c7390)
+
+# 🖼 Overall
+
+With this dashboard, not only can we dive deep into TV show trends and viewer preferences, but we can also find the perfect binge-worthy series for our next weekend ! 📺🍿
+
+
